@@ -1,5 +1,5 @@
 # my-first-python-game
-# Python 小遊戲
+# 學習任務1_冒險者登錄_開啟你的 GitHub 數位航海日誌
 
 這是一個使用 Gemini 基於 Python 開發的小遊戲，透過邏輯判斷與隨機數生成，模擬出數字炸彈玩法。
 
