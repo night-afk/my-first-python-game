@@ -24,8 +24,8 @@
 ---
 
 ## 🚀 如何執行
-1. 請確保你的電腦已安裝 **Python 3**。
+1. 請確保你的電腦已安裝 **Python**。
 2. 下載或 Clone 本倉庫到本地端。
 3. 在終端機 (Terminal) 或 VS Code 中執行以下指令：
    ```bash
-   python bomb_game.py
+   python first_game.py
